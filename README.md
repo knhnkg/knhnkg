@@ -1,8 +1,8 @@
-####### 👋 Hi, I'm Bella
-####### 🌱 Currently in my final year at The University of Melbourne
-####### 🖥️ I study Computing and Software Systems
-####### 💡 Current project: Round-robin CPU scheduler + Memory management
-####### 📫 Reach me at: bellakwon2003@gmail.com 
+##### 👋 Hi, I'm Bella
+##### 🌱 Currently in my final year at The University of Melbourne
+##### 🖥️ I study Computing and Software Systems
+##### 💡 Current project: Round-robin CPU scheduler + Memory management
+##### 📫 Reach me at: bellakwon2003@gmail.com 
 
 <!--
 **knhnkg/knhnkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
