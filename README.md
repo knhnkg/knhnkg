@@ -1,7 +1,5 @@
 # Hi, I'm Bella 👋 
 
-<img src="https://img.shields.io/badge/bellakwon2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 #### About me
