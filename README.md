@@ -1,16 +1,16 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
 
-#### Hi, I'm Bella 👋
+#### 👋 Hi, I'm Bella
 
 - Currently in my final year at The University of Melbourne
 - I study Computing and Software Systems
 - You can reach me at: bellakwon2003@gmail.com 
 
-#### Skills & Tools
+#### 💡 Skills & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql,vscode,git)](https://skillicons.dev)
 
-#### Past Projects
+#### 🌱 Past Projects
 - Lucky Thirteen | A user-interactive card game (Java, 2024)
 - Ore Mining Simulator | A user-interactive ore mining simulator (Java, 2024)
 - ShadowPac | A multi-level pac-man game (Java, 2023)
