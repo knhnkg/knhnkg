@@ -4,7 +4,7 @@ A tech student stuying Computing and Software Systems at Unimelb.
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
 
-<img src="https://img.shields.io/badge/bellakwon2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+<img src="https://img.shields.io/badge/bellakwon2003@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/> 
 
 #### Skills & Tools
 
