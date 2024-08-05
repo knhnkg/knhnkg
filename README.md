@@ -4,7 +4,7 @@
 
 - Currently in my final year at The University of Melbourne
 - I study Computing and Software Systems
-- Reach me at: bellakwon2003@gmail.com 
+- You can reach me at: bellakwon2003@gmail.com 
 
 #### Skills & Tools
 
