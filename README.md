@@ -1,4 +1,4 @@
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) <img src="https://img.shields.io/badge/bellakwon2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 #### Hi, I'm Bella 👋
 
@@ -17,6 +17,12 @@
 - Autocomplete lookup | A radix tree & sorted array based search algorithm (C, 2023)
 
 
+
+<!--
+GMAIL BADGE:
+<img src="https://img.shields.io/badge/bellakwon2003@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+-->
+
 <!--
 * 👋 Hi, I'm Bella
 * 🌱 Currently in my final year at The University of Melbourne
@@ -27,15 +33,4 @@
 
 <!--
 **knhnkg/knhnkg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
