@@ -1,5 +1,25 @@
 # Hi, I'm Bella 👋 
 
+A tech student stuying Computing and Software Systems at Unimelb.
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
+
+<img src="https://img.shields.io/badge/bellakwon2003@gmail.com-white?style=for-the-badge&logo=gmail&logoColor=black"/> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+
+#### Skills & Tools
+
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql,vscode,git)](https://skillicons.dev)
+
+#### Past Projects
+- Lucky Thirteen | A user-interactive card game (Java, 2024)
+- Ore Mining Simulator | A user-interactive ore mining simulator (Java, 2024)
+- ShadowPac | A multi-level pac-man game (Java, 2023)
+- Autocomplete lookup | A radix tree & sorted array based search algorithm (C, 2023)
+
+
+<!--
+# Hi, I'm Bella 👋 
+
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fknhnkg&count_bg=%23798D69&title_bg=%23FFFFFF&icon=&icon_color=%23E7E7E7&title=%F0%9F%90%88+%F0%9F%90%BE+&edge_flat=true)](https://hits.seeyoufarm.com) 
 
 #### About me
@@ -17,6 +37,7 @@
 - Ore Mining Simulator | A user-interactive ore mining simulator (Java, 2024)
 - ShadowPac | A multi-level pac-man game (Java, 2023)
 - Autocomplete lookup | A radix tree & sorted array based search algorithm (C, 2023)
+-->
 
 
 
