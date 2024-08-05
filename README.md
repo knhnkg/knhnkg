@@ -8,7 +8,7 @@
 
 #### Skills & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=c,java,py,vscode,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql,vscode,git)](https://skillicons.dev)
 
 #### Past Projects
 - Lucky Thirteen | A user-interactive card game (Java, 2024)
