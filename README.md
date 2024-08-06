@@ -1,4 +1,4 @@
-# Hi, I'm Bella 👋 
+# Hi there, I'm Bella 👋 
 
 A tech student studying Computing and Software Systems at Unimelb.
 
