@@ -9,14 +9,18 @@ A tech student studying Computing and Software Systems at Unimelb.
 #### Skills & Tools
 [![My Skills](https://skillicons.dev/icons?i=c,java,py,mysql,vscode,git)](https://skillicons.dev)
 
-#### Currently learning...
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,dynamodb,cs,unity)](https://skillicons.dev)
-
 #### Past Projects
 - Lucky Thirteen | A user-interactive card game (Java, 2024)
 - Ore Mining Simulator | A user-interactive ore mining simulator (Java, 2024)
 - ShadowPac | A multi-level pac-man game (Java, 2023)
 - Autocomplete lookup | A radix tree & sorted array based search algorithm (C, 2023)
+
+
+
+<!--
+#### Currently learning...
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,dynamodb,cs,unity)](https://skillicons.dev)
+-->
 
 
 
